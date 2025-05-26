@@ -1,0 +1,24 @@
+# Data handling & ML
+pandas>=1.3.0
+numpy>=1.24.0
+scikit-learn>=1.1.0
+joblib>=1.1.0
+
+# Text processing
+nltk>=3.7
+# Note: LatvianNLP might need to be installed separately
+# You may need to install it from source or use an alternative
+
+# Deep learning & Hugging Face
+torch>=2.0.0
+transformers>=4.28.0
+sentencepiece>=0.1.97
+accelerate>=0.20.0
+
+# OpenAI API
+openai>=0.27.0
+
+# Additional utilities
+tqdm>=4.65.0
+matplotlib>=3.5.0
+seaborn>=0.12.0

@@ -1,2 +1,1 @@
-# Clickbait-Recognition-in-News-Headlines-Using-Machine-Learning-and-Large-Language-Models
-Clickbait-Recognition-in-News-Headlines-Using-Machine-Learning-and-Large-Language-Models
+Datu kopas fails nav iekļauts, jo datu kopa ir iegūta no profesora Ginta Jēkabsona un man nepieder.
